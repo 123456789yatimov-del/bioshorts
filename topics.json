@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name_ru": "Имбирь", "query_en": "ginger root raw", "status": "todo"},
+  {"id": 2, "name_ru": "Куркума", "query_en": "turmeric raw", "status": "todo"},
+  {"id": 3, "name_ru": "Корица", "query_en": "cinnamon ground", "status": "todo"},
+  {"id": 4, "name_ru": "Мята", "query_en": "peppermint fresh", "status": "todo"},
+  {"id": 5, "name_ru": "Чёрная смородина", "query_en": "blackcurrants raw", "status": "todo"},
+  {"id": 6, "name_ru": "Гранат", "query_en": "pomegranates raw", "status": "todo"},
+  {"id": 7, "name_ru": "Финики", "query_en": "dates medjool", "status": "todo"},
+  {"id": 8, "name_ru": "Чеснок", "query_en": "garlic raw", "status": "todo"},
+  {"id": 9, "name_ru": "Оливковое масло", "query_en": "oil olive salad or cooking", "status": "todo"},
+  {"id": 10, "name_ru": "Шафран", "query_en": "saffron spice", "status": "todo"}
+]
